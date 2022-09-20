@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/fremdie/product-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/fremdie/product-preview-card)
+- Live Site URL: [Netlify](https://splendorous-manatee-a5666c.netlify.app/)
 
 ## My process
 
